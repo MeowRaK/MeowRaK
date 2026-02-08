@@ -1,4 +1,4 @@
-# Rakan Albinsaad 👨‍💻
+# 👋 Hi, I'm Rakan Albinsaad 
 
 Junior Cybersecurity & Digital Forensics Student  
 Imam Abdulrahman Bin Faisal University  
