@@ -1,36 +1,36 @@
 # Rakan Albinsaad 👨‍💻
 
-Junior Cybersecurity & Digital Forensics Student  
-Imam Abdulrahman Bin Faisal University  
+> Junior Cybersecurity & Digital Forensics Student  
+> Imam Abdulrahman Bin Faisal University  
+> Currently taking a Machine Learning course 🤖 and applying hands-on labs 🧪.
 
-Currently focused on studying Machine Learning 🤖 and applying practical labs 🧪.
+---
+
+## 🧑‍💻 About Me
+
+> Cybersecurity student building strong foundations in penetration testing, network security, and digital forensics.  
+> Focused on practical skill development through structured coursework and lab-based training.
 
 ---
 
 ## 🎯 Focus Areas
 
-- Supervised & Unsupervised Learning  
-- Data preprocessing & feature engineering  
-- Model evaluation and optimization  
-- Applying ML concepts through hands-on labs  
-
+> • Penetration Testing Fundamentals  
+> • Network & Web Security  
+> • Digital Forensics  
+> • Offensive Security
 ---
 
-## 🛠 Tools & Languages
+## 🛠 Tools & Technologies
 
-- Python 
-- NumPy, Pandas
-- Jupyter Notebook 📓  
-- Git  
-
----
-
-## 🚀 Goal
-
-Building strong ML fundamentals and applying them to real-world problems.
+> Python  
+> Kali Linux  
+> Nmap, Burp Suite  
+> NumPy, Pandas
+> Git  
 
 ---
 
 ## 📫 Contact
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/rakan-albinsaad/)
+> 💼 [LinkedIn](https://www.linkedin.com/in/rakan-albinsaad/)
