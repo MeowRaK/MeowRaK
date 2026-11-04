@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Rakan Albinsaad 
 
-Junior Cybersecurity & Digital Forensics Student  
+Senior Cybersecurity & Digital Forensics Student  
 Imam Abdulrahman Bin Faisal University  
-Currently taking a Machine Learning course 🤖 and applying hands-on labs 🧪.
 
 ---
 
