@@ -27,10 +27,4 @@ Focused on practical skill development through structured coursework and lab-bas
 - Kali Linux  
 - Nmap, Burp Suite  
 - NumPy, Pandas  
-- Git  
-
----
-
-## 📫 Contact
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/rakan-albinsaad/)
+- Git 
